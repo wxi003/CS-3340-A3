@@ -1,0 +1,221 @@
+Script started on 2024-04-04 01:01:46-04:00 [TERM="xterm-256color" TTY="/dev/pts/1" COLUMNS="80" LINES="24"]
+]0;xwan2563@compute:~/cs3340/asn3[?2004h[xwan2563@compute asn3]$ whoami
+[?2004lxwan2563
+]0;xwan2563@compute:~/cs3340/asn3[?2004h[xwan2563@compute asn3]$ date
+[?2004lThu Apr  4 01:02:02 AM EDT 2024
+]0;xwan2563@compute:~/cs3340/asn3[?2004h[xwan2563@compute asn3]$ pwd
+[?2004l/home/xwan2563/cs3340/asn3
+]0;xwan2563@compute:~/cs3340/asn3[?2004h[xwan2563@compute asn3]$ ./asn3.sh infil.[Ke.txt
+[?2004l25
+Input graph:
+2 - 21 weight: 0
+24 - 8 weight: 7
+21 - 3 weight: 43
+21 - 16 weight: 16
+18 - 19 weight: 32
+3 - 8 weight: 47
+1 - 6 weight: 78
+12 - 20 weight: 24
+2 - 6 weight: 10
+19 - 17 weight: 14
+15 - 20 weight: 45
+1 - 2 weight: 28
+23 - 17 weight: 78
+4 - 7 weight: 27
+10 - 11 weight: 73
+9 - 19 weight: 7
+5 - 13 weight: 64
+24 - 6 weight: 68
+14 - 18 weight: 18
+20 - 13 weight: 39
+6 - 9 weight: 30
+7 - 3 weight: 70
+12 - 23 weight: 44
+7 - 14 weight: 51
+3 - 6 weight: 60
+20 - 18 weight: 71
+10 - 6 weight: 57
+18 - 16 weight: -7
+19 - 15 weight: 3
+24 - 12 weight: 17
+10 - 15 weight: 71
+16 - 24 weight: 32
+3 - 15 weight: 57
+5 - 7 weight: 29
+3 - 22 weight: 9
+12 - 3 weight: 70
+22 - 12 weight: 17
+24 - 5 weight: 57
+8 - 20 weight: 64
+20 - 21 weight: 5
+4 - 23 weight: 16
+8 - 12 weight: 68
+25 - 5 weight: 65
+18 - 11 weight: 54
+11 - 9 weight: 20
+11 - 6 weight: 18
+25 - 21 weight: 5
+7 - 13 weight: 70
+24 - 10 weight: 74
+23 - 1 weight: 69
+15 - 2 weight: 60
+20 - 17 weight: 48
+19 - 4 weight: 30
+3 - 11 weight: 63
+23 - 16 weight: 54
+21 - 18 weight: 61
+7 - 24 weight: 19
+22 - 19 weight: 23
+15 - 13 weight: 25
+10 - 13 weight: 18
+8 - 7 weight: 19
+18 - 23 weight: 10
+25 - 13 weight: 31
+20 - 6 weight: -57
+3 - 17 weight: -55
+21 - 9 weight: 29
+23 - 20 weight: 28
+10 - 14 weight: -38
+22 - 17 weight: 48
+6 - 5 weight: 48
+8 - 10 weight: 23
+25 - 8 weight: 54
+13 - 1 weight: 73
+3 - 19 weight: 22
+9 - 20 weight: 14
+7 - 16 weight: 72
+10 - 1 weight: 4
+9 - 7 weight: 5
+15 - 17 weight: 67
+2 - 9 weight: 77
+2 - 13 weight: -57
+20 - 22 weight: 52
+10 - 9 weight: 38
+4 - 6 weight: 5
+25 - 14 weight: 37
+13 - 17 weight: -49
+18 - 5 weight: 40
+14 - 19 weight: 46
+14 - 2 weight: 10
+17 - 25 weight: 38
+12 - 13 weight: 15
+12 - 19 weight: 41
+23 - 25 weight: -79
+19 - 16 weight: 68
+11 - 15 weight: 49
+21 - 13 weight: 77
+14 - 11 weight: 9
+16 - 20 weight: 51
+17 - 24 weight: 1
+5 - 2 weight: 46
+5 - 4 weight: 48
+22 - 11 weight: 16
+23 - 10 weight: 76
+24 - 14 weight: 78
+19 - 20 weight: 41
+20 - 4 weight: 68
+18 - 15 weight: 49
+4 - 13 weight: 9
+4 - 2 weight: 64
+1 - 9 weight: 18
+4 - 25 weight: 49
+10 - 20 weight: 30
+21 - 24 weight: 69
+14 - 13 weight: 23
+1 - 25 weight: -75
+19 - 10 weight: 60
+11 - 5 weight: 22
+20 - 24 weight: 15
+14 - 15 weight: 25
+7 - 11 weight: 1
+13 - 24 weight: 34
+16 - 3 weight: 70
+17 - 9 weight: 40
+9 - 3 weight: 10
+13 - 18 weight: 30
+16 - 10 weight: 8
+8 - 22 weight: 67
+5 - 9 weight: 68
+5 - 1 weight: 57
+17 - 2 weight: 62
+13 - 23 weight: 17
+14 - 6 weight: 9
+17 - 18 weight: 63
+9 - 8 weight: 65
+15 - 16 weight: 10
+15 - 12 weight: 26
+24 - 2 weight: 31
+6 - 21 weight: 57
+6 - 23 weight: 49
+10 - 2 weight: 11
+8 - 21 weight: 55
+19 - 13 weight: 31
+7 - 10 weight: 1
+13 - 16 weight: 67
+11 - 17 weight: 70
+1 - 7 weight: 66
+5 - 22 weight: 31
+19 - 1 weight: 33
+16 - 2 weight: 59
+10 - 5 weight: 45
+8 - 11 weight: 78
+11 - 23 weight: 0
+15 - 4 weight: 12
+20 - 2 weight: 75
+15 - 21 weight: 29
+12 - 6 weight: -8
+3 - 5 weight: 25
+15 - 22 weight: 71
+1 - 14 weight: 21
+25 - 24 weight: 64
+1 - 4 weight: -65
+3 - 23 weight: 33
+9 - 16 weight: 69
+24 - 18 weight: 41
+14 - 9 weight: 10
+25 - 22 weight: 73
+4 - 24 weight: 72
+7 - 21 weight: 51
+2 - 12 weight: 21
+14 - 21 weight: -66
+11 - 16 weight: 15
+1 - 20 weight: 42
+21 - 1 weight: 58
+1 - 16 weight: 21
+12 - 11 weight: 35
+18 - 25 weight: 35
+6 - 18 weight: 8
+17 - 1 weight: 75
+24 - 15 weight: 37
+14 - 3 weight: 34
+ 
+Minimum Spanning Tree: 
+Edge: 2-21 weight: 0
+Edge: 3-17 weight: -55
+Edge: 4-1 weight: -65
+Edge: 5-11 weight: 22
+Edge: 6-4 weight: 5
+Edge: 7-11 weight: 1
+Edge: 8-24 weight: 7
+Edge: 9-7 weight: 5
+Edge: 10-7 weight: 1
+Edge: 11-23 weight: 0
+Edge: 12-6 weight: -8
+Edge: 13-2 weight: -57
+Edge: 14-10 weight: -38
+Edge: 15-19 weight: 3
+Edge: 16-10 weight: 8
+Edge: 17-13 weight: -49
+Edge: 18-16 weight: -7
+Edge: 19-9 weight: 7
+Edge: 20-6 weight: -57
+Edge: 21-14 weight: -66
+Edge: 22-3 weight: 9
+Edge: 23-25 weight: -79
+Edge: 24-17 weight: 1
+Edge: 25-1 weight: -75
+Total minimum key: -487
+]0;xwan2563@compute:~/cs3340/asn3[?2004h[xwan2563@compute asn3]$ exity[K
+[?2004lexit
+
+Script done on 2024-04-04 01:02:54-04:00 [COMMAND_EXIT_CODE="0"]
